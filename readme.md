@@ -1,6 +1,6 @@
 ## ip地址过滤工具
 
-可以结合nali一起使用，获取IP地址所在位置
+可以结合[nali](https://github.com/zu1k/nali)一起使用，获取IP地址所在位置
 
 ### 使用方法：
 将ipfiltering.py中31行的`auto.log`改成你所需要筛选的文件路径<br/>
